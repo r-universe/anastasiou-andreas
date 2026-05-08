@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "IDetect"]
+	path = IDetect
+	url = https://github.com/cran/IDetect
 [submodule "ccid"]
 	path = ccid
 	url = https://github.com/anastasiou-andreas/ccid
